@@ -53,12 +53,12 @@
         <image_width/>
         <size_bytes>11241</size_bytes>
         <size_compressed>9667</size_compressed>
-        <state>pending</state>
+        <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-09-26 15:53:15</sys_created_on>
         <sys_id>b2841b4547ed3990b1de786b416d4314</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-09-26 15:53:15</sys_updated_on>
         <table_name>sys_app</table_name>
         <table_sys_id>9284d74547ed3990b1de786b416d437f</table_sys_id>
